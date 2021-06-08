@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CatChat</string>
+
+    <string name="inbox">Inbox</string>
+    <string name="help">Help</string>
+    <string name="sent_items">Sent Items</string>
+    <string name="help_label">Halp</string>
+    <string name="messages_label">Mesagez</string>
+    <string name="sent_items_label">Sent Mesagez</string>
+</resources>
